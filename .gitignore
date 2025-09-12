@@ -51,9 +51,6 @@ Thumbs.db
 *.log
 logs/
 
-# Exec logs
-exec-logs/
-
 # Jupyter Notebook
 .ipynb_checkpoints
 
